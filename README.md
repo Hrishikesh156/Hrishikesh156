@@ -22,7 +22,7 @@
 
   <h4>Here are my smol react projects: </h4>
   <div class="container"><a href="https://hrishikesh156.github.io/FaceDetection/ "> <img src = "React App - Google Chrome 17-06-2021 20_30_20 (2).png" width = "500p"       height="200"></a>
-  <a href="hrishikesh156.github.io/robofriends/"><img src = "preview_robots.png" height="200"></a>
+  <a href="https://hrishikesh156.github.io/robofriends/"><img src = "preview_robots.png" height="200"></a>
   </div>
 
 
