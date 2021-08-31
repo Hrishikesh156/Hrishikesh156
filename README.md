@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on cool ML projects or any sorts.
 - 🤔 I’m looking for help with DevOps.
 - 💬 Ask me about Web Development 
-- ⚡ Fun fact: Nobody's gonna read this , if u did 
+ 
 <h3 align="left">Let's have some chitchat</h3>
 <p align="left">
 <a href="https://twitter.com/Hrishi_156" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Hrishikesh" height="30" width="40" /></a>
