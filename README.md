@@ -24,5 +24,13 @@
   <div class="container"><a href="https://hrishikesh156.github.io/FaceDetection/ "> <img src = "React App - Google Chrome 17-06-2021 20_30_20 (2).png" width = "500p"       height="200"></a>
   <a href="https://hrishikesh156.github.io/robofriends/"><img src = "preview_robots.png" height="200"></a>
   </div>
+## 📈 MY STATS
 
+<p align="center"><img alt="Hrishikesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hrishikesh156&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></p>
+
+<p align="center">&nbsp;<img alt="Hrishikesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishikesh156&theme=react&hide_border=true&stroke=0000&background=0D1117"/></p>
+
+<p align="center"><img alt="Sarvesh Patil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hrishikesh156&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
+
+<img alt="Sarvesh Patil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hrishikesh156&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
