@@ -30,7 +30,7 @@
 
 <p align="center">&nbsp;<img alt="Hrishikesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Hrishikesh156&theme=react&hide_border=true&stroke=0000&background=0D1117"/></p>
 
-<p align="center"><img alt="Sarvesh Patil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hrishikesh156&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
+<p align="center"><img alt="Hrishikesh Kumbhar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hrishikesh156&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></p>
 
-<img alt="Sarvesh Patil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hrishikesh156&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<img alt="Hrishikesh Kumbhar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hrishikesh156&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
